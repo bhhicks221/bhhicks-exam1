@@ -5,7 +5,7 @@ namespace bhhicks_exam1
 {
     public class Shake : ITrain
     {
-        public override void Train()
+        public void Train()
         {
             Console.WriteLine("I'm teaching the dog to shake.");
         }
