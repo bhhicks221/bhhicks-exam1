@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/handleyhicks/Documents/School/JuniorYrSecondSemester/MIS321/CODE/InClass/Exam1/Exam1.csproj",
+      "projectUniqueName": "/Users/handleyhicks/Documents/School/JuniorYrSecondSemester/MIS321/CODE/InClass/Exam1/bhhicks-exam1/Exam1.csproj",
       "projectName": "Exam1",
-      "projectPath": "/Users/handleyhicks/Documents/School/JuniorYrSecondSemester/MIS321/CODE/InClass/Exam1/Exam1.csproj",
+      "projectPath": "/Users/handleyhicks/Documents/School/JuniorYrSecondSemester/MIS321/CODE/InClass/Exam1/bhhicks-exam1/Exam1.csproj",
       "packagesPath": "/Users/handleyhicks/.nuget/packages/",
-      "outputPath": "/Users/handleyhicks/Documents/School/JuniorYrSecondSemester/MIS321/CODE/InClass/Exam1/obj/",
+      "outputPath": "/Users/handleyhicks/Documents/School/JuniorYrSecondSemester/MIS321/CODE/InClass/Exam1/bhhicks-exam1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/handleyhicks/.nuget/NuGet/NuGet.Config"

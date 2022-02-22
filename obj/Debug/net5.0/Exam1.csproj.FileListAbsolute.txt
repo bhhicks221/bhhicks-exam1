@@ -1,0 +1,5 @@
+/Users/handleyhicks/Documents/School/JuniorYrSecondSemester/MIS321/CODE/InClass/Exam1/bhhicks-exam1/obj/Debug/net5.0/Exam1.csproj.AssemblyReference.cache
+/Users/handleyhicks/Documents/School/JuniorYrSecondSemester/MIS321/CODE/InClass/Exam1/bhhicks-exam1/obj/Debug/net5.0/Exam1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/handleyhicks/Documents/School/JuniorYrSecondSemester/MIS321/CODE/InClass/Exam1/bhhicks-exam1/obj/Debug/net5.0/Exam1.AssemblyInfoInputs.cache
+/Users/handleyhicks/Documents/School/JuniorYrSecondSemester/MIS321/CODE/InClass/Exam1/bhhicks-exam1/obj/Debug/net5.0/Exam1.AssemblyInfo.cs
+/Users/handleyhicks/Documents/School/JuniorYrSecondSemester/MIS321/CODE/InClass/Exam1/bhhicks-exam1/obj/Debug/net5.0/Exam1.csproj.CoreCompileInputs.cache
